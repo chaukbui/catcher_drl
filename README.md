@@ -3,7 +3,7 @@
 ## Intro ##
 I implement Deep Q-Learning, a recent advance in deep reinforcement learning introduced in a [paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) by Google DeepMind, to train an agent to play the classiic Catcher. The follow image (credited to Pygame Learning Environments) pretty much describes the game
 
-[ ](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+[ ](catcher.gif)
 
 Only by observing raw pixels, the best trained agent managed to score **1071** points, which is way above my own performance of *126* (I honestly did try my best).
 

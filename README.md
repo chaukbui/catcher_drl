@@ -35,3 +35,7 @@ rm -rf saved_models
 mkdir -p saved_models
 python dl_catcher.py -t model-checkpoint
 ```
+
+## Disclaimer ##
+This work uses the dependency of [PyGame Learning Environment (PLE)](https://github.com/ntasfi/PyGame-Learning-Environment)
+

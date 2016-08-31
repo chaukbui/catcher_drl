@@ -1,0 +1,6 @@
+model_checkpoint_path: "catcher-net-2020000"
+all_model_checkpoint_paths: "catcher-net-1980000"
+all_model_checkpoint_paths: "catcher-net-1990000"
+all_model_checkpoint_paths: "catcher-net-2000000"
+all_model_checkpoint_paths: "catcher-net-2010000"
+all_model_checkpoint_paths: "catcher-net-2020000"
